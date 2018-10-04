@@ -1,6 +1,6 @@
 Database Name: demo
 Settings:
-  Materialize View: true
+  Materialize View: false
   Metadata:
     Owner: rwaters@periscopedata.com
   Publish as Dataset: true
