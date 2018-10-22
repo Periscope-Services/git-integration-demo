@@ -13,7 +13,6 @@ select
   , p.platform as purchase_platform
   , p.created_at as purchase_date
   , a.spend
-  , a.network
 from
   periscope_views.purchases as p
   join periscope_views.users as u on
