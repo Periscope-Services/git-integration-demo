@@ -2,7 +2,7 @@ Database Name: demo
 Settings:
   Materialize View: false
   Metadata:
-    Description: This is not a test
+    Description: This is a test
     Owner: rfriedland@periscopedata.com
     Tags:
     - Test
