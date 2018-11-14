@@ -1,1 +1,1 @@
-select * from users where thing = 1
+select * from users
