@@ -1,1 +1,1 @@
-select 7
+select 1
