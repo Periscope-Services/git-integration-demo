@@ -1,6 +1,6 @@
 Database Name: demo
 Settings:
-  Materialize View: false
+  Materialize View: true
   Metadata:
     Description: This is a test
     Owner: rfriedland@periscopedata.com
