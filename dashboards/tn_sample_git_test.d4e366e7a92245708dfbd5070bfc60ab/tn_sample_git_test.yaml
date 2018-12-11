@@ -1,5 +1,7 @@
 dashboard_preferences:
   settings:
+    dashboard_theme: Space Default (Periscope Theme)
+    description: This is my dashboard description
     owner: tristan@periscopedata.com
 disable_filters: false
 display_name: TN Sample Git Test
