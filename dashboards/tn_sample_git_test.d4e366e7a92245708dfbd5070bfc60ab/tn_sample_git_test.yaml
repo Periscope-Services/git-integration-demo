@@ -1,3 +1,15 @@
+configured_filters:
+  visible_filters:
+  - TN_Device:
+      default:
+      - label: iOS
+        value: iOS
+  - Aggregation:
+      default:
+      - Weekly
+  - Date Range:
+      default:
+      - 365 Days
 dashboard_preferences:
   settings:
     description: This is my dashboard description
