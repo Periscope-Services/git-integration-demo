@@ -2,8 +2,8 @@ configured_filters:
   visible_filters:
   - TN_Device:
       default:
-      - label: iOS
-        value: iOS
+      - label: android
+        value: android
   - Aggregation:
       default:
       - Weekly
