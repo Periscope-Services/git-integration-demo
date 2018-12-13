@@ -1,4 +1,4 @@
-select
+select --comment2
   [created_at:month]
   , count(distinct id)
 from
