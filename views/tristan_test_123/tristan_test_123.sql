@@ -1,1 +1,5 @@
-select 000000
+select
+  network
+  , spend
+from
+  periscope_views.ad_spend
