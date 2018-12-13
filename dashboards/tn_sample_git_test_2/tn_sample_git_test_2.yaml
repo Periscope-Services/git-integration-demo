@@ -17,4 +17,4 @@ dashboard_preferences:
     description: This is Tristan's 2nd sample dashboard.
     owner: tristan@periscopedata.com
 disable_filters: false
-display_name: TN Sample Git Test 2
+display_name: TN Sample Git Test 2 Created from GitHub
