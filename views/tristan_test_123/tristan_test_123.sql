@@ -1,5 +1,5 @@
 select
   network
-  , created_at
+  , spend
 from
   periscope_views.ad_spend
