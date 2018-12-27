@@ -12,7 +12,7 @@ df.columns = days
 grid_kws = {"height_ratios": (.9, .03), "hspace": .4}
 f, (ax, cbar_ax) = plt.subplots(2,gridspec_kw=grid_kws, figsize=(12,7))
 
-f = sns.heatmap(df, ax=ax, cbar_ax=cbar_ax, cbar_kws={"orientation": "horizontal", "label": "Therms"}, cmap="YlGnBu")
+f = sns.heatmap(df, ax=ax, cbar_ax=cbar_ax, cbar_kws={"orientation": "horizontal", "label": "Therms"}, cmap="gist_heat")
 f.set_yticklabels(f.get_yticklabels(), rotation=0)
 f.set_xticklabels(f.get_xticklabels(), rotation=0)
 periscope.output(f)
