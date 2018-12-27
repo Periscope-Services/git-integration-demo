@@ -1,5 +1,5 @@
 select
-  date
+  [date:aggregation]
   , usage
   , cost
 
