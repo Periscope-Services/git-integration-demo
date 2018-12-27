@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: demo
+display_name: Gas Usage and Cost
+encrypted_definition: 5/rvDN0ROAmgQ+3hJs9okmrhFxy47ltGZBQ591rxNV8rQp3E3BYjodygWshW1j/h000DX/eyX2OgpI5fmQ7KNChE71FUDxmww6pQkb9lAl/STh+IG1qKgS8aM5sf/bb/j3LTjKSAKgNPpDIRhiBRCH7JhfXjvKppp8ibY5tEk9YfpBEVcWxA0iMq1lbkYGsZ2tVNqwT0pzjMlj2+hswVLnrdizbURGofLkXaRS9yM6HjPTNvGRuUKOT53CVzn/lW+LM9hv7pOIbvMCp6P1QA9JRlDLb0RAANezKjt316s2cN7LZPCmCU7uiyxlmN9qIMV+ABRTihyre+lcABywCJjqPCL5him1wAO9tBUhHgQNHCnStA3o8JcGuj/meewfs0drrkHsi2/+Xq1CcUMjOyV28WbX/EV++H9R7nA7nnDRBQj5f/QPisENQ0zwONsGU8cFydPKzTL9hbEl76fbxKZ5Se7KZ34bhY8NYYBKUDMy5NGWfv41ieHuMhWyTtri1W2b6ZVqw26vffEVu8ZqgmRZlreyxT5ZiX1ND+/+dpBkglw7Nu1MdDbU3rK77irkZzg4+8NfSmBWPlFenwXcnLvw==
+position:
+  left: 0
+  top: 10
+size:
+  height: 10
+  width: 30
