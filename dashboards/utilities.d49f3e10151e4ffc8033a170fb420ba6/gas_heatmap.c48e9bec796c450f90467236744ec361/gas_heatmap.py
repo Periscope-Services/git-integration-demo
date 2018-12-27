@@ -5,7 +5,6 @@ import numpy as np
 import seaborn as sns
 
 
-# print df
 df = df.pivot("month", "day", "usage")
 print df
 ax = sns.heatmap(df)
