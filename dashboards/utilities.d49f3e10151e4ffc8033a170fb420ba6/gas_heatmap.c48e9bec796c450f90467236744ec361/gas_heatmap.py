@@ -7,5 +7,5 @@ import seaborn as sns
 
 df = df.pivot("month", "day", "usage")
 print df
-ax = sns.heatmap(df)
+ax = sns.heatmap(df, cmap="YlGnBu", square=True, cbar=False)
 periscope.output(ax)
