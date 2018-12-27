@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: demo
+display_name: Electricity Usage and Cost
+encrypted_definition: q5fVx33cd74Dtw/GvQuBPdytkH4e2UQCk7eCfzUzndgrFWBWsAiFvKX6JvEIXY0d/7+uDb+dHrEKFRMEp+KXeajAUG08PnqTfY8bNVdvGRg7vMZ8MULosLmoUCr1H5LYmLc8HdN5DWxUAKW+6nVd9tGSUGA9KWpP4kmEWxt7bRBiWeeteqqCnQAUAl8WfCNvlFP5ZzNFqM+7ND9DDy3eluDcNzFzd3A7/CLmuktc9xgsua/icQ2rFKiGFXGjny/tWnwloswAbKzCFTFjO3GtEBiHl5RGGj8powM4OdZhF76IkBhGoriGkWTTNUg4O3N2Moy2tMFEcrxUFfnIEH/1tWwBfQwsaEpQstQXCi/q4n4CcvCDlnIfMXelv3pmXo+H5PLYTfobqGjfW1HtSoowI69KbzwFKi5VsSRRwZ76MI/2x8yUXtuzCwABKcpSMB8yEcFMam5H+oNL2g+NWjK22mEja8T7vIFfqQczTQRdnHKnovdp79lJYsflEQOLGGRC3WJnvWJMYnCC3emljW/hzg==
+position:
+  left: 0
+  top: 0
+size:
+  height: 10
+  width: 30
