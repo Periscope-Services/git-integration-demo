@@ -4,8 +4,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
 
+days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
 
 df = df.pivot("month", "day", "usage")
+df.columns = days
+
 grid_kws = {"height_ratios": (.9, .03), "hspace": .4}
 f, (ax, cbar_ax) = plt.subplots(2,gridspec_kw=grid_kws, figsize=(12,7))
 
