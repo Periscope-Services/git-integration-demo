@@ -2,4 +2,4 @@ dashboard_preferences:
   settings:
     owner: rwaters@periscopedata.com
 disable_filters: true
-display_name: Electricity
+display_name: Utilities
