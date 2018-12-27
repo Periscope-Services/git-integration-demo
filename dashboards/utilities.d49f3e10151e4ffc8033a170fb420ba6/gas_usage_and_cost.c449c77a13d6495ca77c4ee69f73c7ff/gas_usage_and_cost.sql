@@ -5,3 +5,5 @@ select
 
 from
   [gas_data]
+where
+  [date=daterange]
