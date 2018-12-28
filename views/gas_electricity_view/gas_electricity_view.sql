@@ -1,17 +1,19 @@
 select
   type
-  , date
-  , usage
+  , [date:day] as date
   , units
-  , cost
+  , sum(usage) as usage
+  , sum(replace(cost, '$', '')::float)::varchar as cost
 from
   [electric_data]
+group by
+  1,2,3
 union all
 select
   type
-  , date
-  , usage
+  , [date:day] as date
   , units
-  , cost
+  , usage
+  , replace(cost,'$', '')
 from
   [gas_data]
