@@ -1,5 +1,6 @@
 Database Name: demo
 Settings:
-  Materialize View: false
+  Materialize View: true
   Metadata:
     Owner: tristan@periscopedata.com
+code_language: python3.6
