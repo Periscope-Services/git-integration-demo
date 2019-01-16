@@ -1,3 +1,1 @@
-first_name as first
-, last_name as last
-, platform as device
+select created_from_git!!!!!!
