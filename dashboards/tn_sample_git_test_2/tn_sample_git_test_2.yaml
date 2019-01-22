@@ -1,0 +1,20 @@
+configured_filters:
+  visible_filters:
+  - TN_Device:
+      default:
+      - label: android
+        value: android
+      - label: iOS
+        value: iOS
+  - Aggregation:
+      default:
+      - Weekly
+  - Date Range:
+      default:
+      - 90 Days
+dashboard_preferences:
+  settings:
+    description: This is Tristan's 2nd sample dashboard.
+    owner: tristan@periscopedata.com
+disable_filters: false
+display_name: TN Sample Git Test 2 Created from GitHub

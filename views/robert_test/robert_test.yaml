@@ -1,0 +1,9 @@
+Database Name: demo
+Settings:
+  Materialize View: true
+  Metadata:
+    Description: This is a test
+    Owner: rfriedland@periscopedata.com
+    Tags:
+    - Test
+code_language: python3.6
