@@ -1,0 +1,12 @@
+chart_type: Line
+database_name: demo
+display_name: Untitled Chart
+encrypted_definition: AFmt0wMSe1PKWNFKPIWWSVa71wzt6KwbeGiUn7Zisw+Gsf4tBJSX2jNs+F3BWWlpngI8iHRZLAuUva2eVIRasgBTEqDITevX/XD+4SDXfwB1NItt6pRHd/VXOpYdZsAIagR9CbIU51xlspprgQt29lmyfYdOn6vV6v6ccr5v8xQ5WuLKEpGgErXxrrMiX6Kaqft98Zj7dZMtC48Cob6LFeA2nYek2XGxNnIL/qin5ny3sFBqVx9brkObZTL/t/XebINdEptICYPfHbWaF5Al8DdL36wyxZ2YewKTYy06Miw=
+limit_preview:
+  rows: 30000
+position:
+  left: 0
+  top: 0
+size:
+  height: 10
+  width: 30
