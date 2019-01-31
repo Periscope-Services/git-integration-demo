@@ -1,2 +1,3 @@
-last_name as last
+first_name as first
+, last_name as last
 , platform as device

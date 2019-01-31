@@ -1,3 +1,5 @@
+advanced:
+  expose_public_csv_url: true
 chart_type: Bar
 code_language: python2.7
 database_name: demo
