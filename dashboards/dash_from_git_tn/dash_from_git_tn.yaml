@@ -1,0 +1,5 @@
+dashboard_preferences:
+  settings:
+    owner: tristan@periscopedata.com
+disable_filters: true
+display_name: dash_from_git_tn
