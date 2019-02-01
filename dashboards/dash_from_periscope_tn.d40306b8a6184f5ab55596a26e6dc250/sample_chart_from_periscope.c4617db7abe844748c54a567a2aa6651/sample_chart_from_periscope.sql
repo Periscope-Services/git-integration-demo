@@ -1,5 +1,6 @@
 select
-platform
+  price
+  , platform
   , created_at
   , count(*)
 from
