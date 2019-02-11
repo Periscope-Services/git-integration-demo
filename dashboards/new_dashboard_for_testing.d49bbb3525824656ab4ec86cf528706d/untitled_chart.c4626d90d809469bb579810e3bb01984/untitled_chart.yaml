@@ -1,0 +1,11 @@
+chart_type: Bar
+color_theme: Sample Theme
+database_name: demo
+display_name: Untitled Chart
+encrypted_definition: pWEHAxJFtbKmRSJ1kicmUccOMHU/np2iLcc9atxULVDp5yHGFXzbjuOIM3V+AwhoA19uxfZG04CzmJZ68syraHnVE2ONqjcrQBPVHm3eDiVmx2b+y0b4BNQVxRcIgduq1+ytZfTr+NkclpUlRIlj1/WwQ+0Xe+vUf9bGsmMCn8WU//iz2kja2G7zU3aybKfo64CyHAzdiLVHNCHMqb3OjZ6pQRfygLfo2/2TvsZ9QIk5Eb5F4MzWoZuMsibc2yVJXhK4122AY+oIpHiJeyATox3ynNKCSPnZ98jzNGy5uasqnrhvOUkULjkNRB6f5WBYFH2oXda+MVxWCBomu/2HPA==
+position:
+  left: 0
+  top: 46
+size:
+  height: 10
+  width: 30
