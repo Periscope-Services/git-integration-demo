@@ -1,0 +1,1 @@
+select * from ad_spend limit 100
