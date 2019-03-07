@@ -1,3 +1,11 @@
+configured_filters:
+  visible_filters:
+  - TN_Device:
+      default:
+      - label: web
+        value: web
+  - Aggregation: {}
+  - Date Range: {}
 dashboard_preferences:
   settings:
     owner: ""
