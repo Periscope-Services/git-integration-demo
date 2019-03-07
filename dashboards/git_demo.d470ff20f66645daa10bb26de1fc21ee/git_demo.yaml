@@ -4,8 +4,12 @@ configured_filters:
       default:
       - label: web
         value: web
-  - Aggregation: {}
-  - Date Range: {}
+  - Aggregation:
+      default:
+      - Weekly
+  - Date Range:
+      default:
+      - 365 Days
 dashboard_preferences:
   settings:
     owner: ""
