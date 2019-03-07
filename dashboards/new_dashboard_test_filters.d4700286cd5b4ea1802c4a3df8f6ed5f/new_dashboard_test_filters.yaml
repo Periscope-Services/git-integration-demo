@@ -1,9 +1,6 @@
 configured_filters:
   visible_filters:
-  - TN_Device:
-      default:
-      - label: web
-        value: web
+  - TN_Device: {}
   - Aggregation: {}
   - Date Range: {}
 dashboard_preferences:
