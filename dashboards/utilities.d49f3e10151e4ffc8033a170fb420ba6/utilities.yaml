@@ -3,9 +3,7 @@ configured_filters:
   - Aggregation:
       default:
       - Daily
-  - Date Range:
-      default:
-      - 30 Days
+  - Date Range: {}
 dashboard_preferences:
   settings:
     owner: rwaters@periscopedata.com
