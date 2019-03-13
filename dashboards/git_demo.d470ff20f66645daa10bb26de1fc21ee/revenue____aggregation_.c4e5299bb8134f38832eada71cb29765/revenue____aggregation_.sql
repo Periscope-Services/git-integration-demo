@@ -2,6 +2,7 @@ select
   [date(purchase_date):aggregation]
   , purchase_platform
   , sum(price)
+--hi
 from
   [demo_data_view]
 where
