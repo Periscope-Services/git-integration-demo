@@ -1,6 +1,6 @@
 advanced:
   expose_public_csv_url: true
-chart_type: Line
+chart_type: Area
 code_language: python2.7
 database_name: demo
 display_name: Revenue git clone | [aggregation]
