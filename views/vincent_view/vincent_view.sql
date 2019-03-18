@@ -1,2 +1,2 @@
 select 1
-from table
+from table_2
