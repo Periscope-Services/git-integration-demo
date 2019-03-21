@@ -3,6 +3,8 @@ select
   , purchase_platform
   , sum(price)
 --hi
+
+--test
 from
   [demo_data_view]
 where
