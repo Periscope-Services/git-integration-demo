@@ -4,4 +4,4 @@ select
   , email
 from
   users
-limit 200
+limit 20

@@ -1,1 +1,1 @@
-select [getdate():date]
+ select [getdate():date]
