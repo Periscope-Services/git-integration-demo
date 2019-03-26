@@ -1,0 +1,16 @@
+chart_type: bar  #Required
+database_name: demo   #Required
+display_name: test   #Required
+limit_preview:
+  rows: 100   #Setting “rows: null” unchecks the Limit Preview checkbox
+color_theme: My Theme
+advanced:
+  description: This is my chart description
+  enable_csv_download_from_chart: true
+  expose_public_csv_url: false
+position:   #Required
+  left: 0
+  top: 17
+size:   #Required
+  height: 14
+  width: 20

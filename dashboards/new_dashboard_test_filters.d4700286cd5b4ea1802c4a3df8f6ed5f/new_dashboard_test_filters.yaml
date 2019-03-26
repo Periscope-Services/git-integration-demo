@@ -5,6 +5,6 @@ configured_filters:
   - Date Range: {}
 dashboard_preferences:
   settings:
-    owner: ""
+    owner: britton@periscopedata.com
 disable_filters: false
-display_name: Git Demo
+display_name: New Dashboard Test Filters
