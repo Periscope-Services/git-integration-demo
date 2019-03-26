@@ -3,4 +3,4 @@ select
   , spend
 from
   ad_spend
-limit 50
+limit 500
