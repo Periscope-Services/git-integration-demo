@@ -3,3 +3,4 @@ Settings:
   Materialize View: true
   Metadata:
     Owner: rwaters@periscopedata.com
+  Publish as Dataset: true
