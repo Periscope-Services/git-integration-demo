@@ -1,2 +1,2 @@
-select 3
+select 2
 from table
