@@ -14,6 +14,7 @@ configured_filters:
       - 90 Days
 dashboard_preferences:
   settings:
+    dashboard_color_theme: Sample Theme
     description: This is Tristan's sample dashboard.
     owner: tristan@periscopedata.com
 disable_filters: false
