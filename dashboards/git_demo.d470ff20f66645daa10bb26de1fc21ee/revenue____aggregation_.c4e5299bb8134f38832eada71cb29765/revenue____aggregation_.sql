@@ -4,7 +4,7 @@ select
   , sum(price)
 --hi
 
---test
+--test1111
 from
   [demo_data_view]
 where
