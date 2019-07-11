@@ -1,7 +1,7 @@
 advanced:
   expose_public_csv_url: true
 chart_type: Bar
-code_language: python2.7
+code_language: python2.7.15
 database_name: demo
 display_name: Revenue | [aggregation]
 encrypted_definition: Q1CTc+gnXhAlSzM16CbrATIbYg/APOl03yZWmAwUvrZDG/V/RD6Y2zAVewnG75gnej9mEag4MfPdiXXQEEQyhFsllQm5UsrJ/0LJKNaocKn4bsZfbN1RQwyDOWxk4Ub9vaFbu2/3i7PBFmWlCsFxgY272J5ZfCbFb2CZldLT2Atd466Ox6F2YFMkJLeuduptI/c3+3jaLz87XgLOxnPgQDNuYvRA+zxiovg5Iek1C10=
