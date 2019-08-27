@@ -1,5 +1,5 @@
 select
-  [date(purchase_date):aggregation]
+  [date(purchase_date):week]
   , purchase_platform
   , sum(price)
 from
