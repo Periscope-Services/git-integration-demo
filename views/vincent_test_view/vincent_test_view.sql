@@ -1,1 +1,1 @@
-select 4
+select 2
