@@ -1,0 +1,10 @@
+chart_type: Bar
+database_name: demo
+display_name: Bar Chart 2
+encrypted_definition: 
+position:
+  left: 0
+  top: 20
+size:
+  height: 10
+  width: 30
