@@ -1,6 +1,6 @@
 chart_type: Pie
 database_name: demo
-display_name: Bar Chart
+display_name: Roberts Pie Chart
 position:
   left: 0
   top: 20
