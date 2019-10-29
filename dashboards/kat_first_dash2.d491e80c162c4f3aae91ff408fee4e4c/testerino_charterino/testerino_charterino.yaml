@@ -1,0 +1,9 @@
+chart_type: Line
+database_name: demo
+display_name: Testerino_Charterino
+position:
+  left: 0
+  top: 40
+size:
+  height: 10
+  width: 30
