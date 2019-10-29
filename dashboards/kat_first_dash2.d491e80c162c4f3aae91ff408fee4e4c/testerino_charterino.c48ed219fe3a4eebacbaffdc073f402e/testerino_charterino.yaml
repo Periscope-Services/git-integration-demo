@@ -1,6 +1,7 @@
-chart_type: Table
+chart_type: Line
 database_name: demo
 display_name: Testerino_Charterino
+encrypted_definition: 0migURM6iV49DCanTF+RomDFmleWW+78cJA+u2FcCR4PX46UfGZP+iNsBn8IxVbkRFP690D1WBH05mZJyqev+0kMVBm7BL0TrRZDa7X4bI1Vm0jKKkWpESAMyJrc9ZEmfann2DHbIj5S3sUuEsaIHcL1ovSiad99QG0u65ulwNrkBq0jWKs/gaHbD/sFYjvKbGnvZ/H4hooMrlswZnTAcuP6ULlcrlnKBlqlgNW7cnCMm19mPRdYrVuOKO9Vyc28
 position:
   left: 0
   top: 40

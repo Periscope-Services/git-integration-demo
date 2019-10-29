@@ -1,1 +1,1 @@
-select 'Woot Woot'
+select * from periscope_views.ad_spend
